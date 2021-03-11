@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Feladatok\HarmadikFeladat.cs" />
+    <Compile Include="Feladatok\HatodikFeladat.cs" />
+    <Compile Include="Feladatok\HetedikFeladat.cs" />
     <Compile Include="FileKezeles\FileBeolvas.cs" />
     <Compile Include="Objektumok\Kutya.cs" />
     <Compile Include="Objektumok\KutyaFajta.cs" />
@@ -53,5 +56,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
