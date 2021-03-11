@@ -46,6 +46,7 @@
     <Compile Include="Feladatok\HarmadikFeladat.cs" />
     <Compile Include="Feladatok\HatodikFeladat.cs" />
     <Compile Include="Feladatok\HetedikFeladat.cs" />
+    <Compile Include="Feladatok\NyolcadikFeladat.cs" />
     <Compile Include="FileKezeles\FileBeolvas.cs" />
     <Compile Include="Objektumok\Kutya.cs" />
     <Compile Include="Objektumok\KutyaFajta.cs" />

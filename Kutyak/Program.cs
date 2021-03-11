@@ -19,6 +19,7 @@ namespace Kutyak
             HarmadikFeladat.Megoldas(kutyaNevLista);
             HatodikFeladat.Megoldas(kutyaLista);
             HetedikFeladat.Megoldas(kutyaLista, kutyaNevLista, kutyaFajtaLista);
+            NyolcadikFeladat.Megoldas(kutyaLista, kutyaFajtaLista);
 
 
             Console.ReadKey(true);
