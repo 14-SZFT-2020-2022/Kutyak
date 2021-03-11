@@ -46,8 +46,12 @@
     <Compile Include="Feladatok\HarmadikFeladat.cs" />
     <Compile Include="Feladatok\HatodikFeladat.cs" />
     <Compile Include="Feladatok\HetedikFeladat.cs" />
+    <Compile Include="Feladatok\KilencedikFeladat.cs" />
+    <Compile Include="Feladatok\Megoldas.cs" />
     <Compile Include="Feladatok\NyolcadikFeladat.cs" />
+    <Compile Include="Feladatok\TizedikFeladat.cs" />
     <Compile Include="FileKezeles\FileBeolvas.cs" />
+    <Compile Include="FileKezeles\FileKiir.cs" />
     <Compile Include="Objektumok\Kutya.cs" />
     <Compile Include="Objektumok\KutyaFajta.cs" />
     <Compile Include="Objektumok\KutyaNev.cs" />
