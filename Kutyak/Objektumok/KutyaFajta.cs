@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kutyak
+namespace Kutyak.Objektumok
 {
-    class Program
+    class KutyaFajta
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
